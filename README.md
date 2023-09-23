@@ -2,6 +2,9 @@
 
 This repository is a resource for learning and mastering the C programming language. Whether you're a beginner or an experienced programmer, you'll find valuable information, code examples, and resources here to help you on your C programming journey.
 
+## About C language 
+C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C’s features cleanly reflect the capabilities of the targeted CPUs.
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
