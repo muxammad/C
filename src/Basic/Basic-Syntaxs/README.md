@@ -25,8 +25,5 @@ To run this program, you'll need a C compiler installed on your computer. Here a
 
 3. Compile the program using the following command:
 
-    ```bash
-gcc hello.c -o hello
-
-
-
+   ```bash
+   gcc hello.c -o hello
