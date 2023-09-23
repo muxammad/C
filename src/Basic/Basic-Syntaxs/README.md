@@ -27,3 +27,7 @@ To run this program, you'll need a C compiler installed on your computer. Here a
 
    ```bash
    gcc hello.c -o hello
+
+To execute the compiled C program 
+       ```bash
+        ./hello
