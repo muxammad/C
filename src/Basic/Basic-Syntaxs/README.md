@@ -28,6 +28,6 @@ To run this program, you'll need a C compiler installed on your computer. Here a
    ```bash
    gcc hello.c -o hello
 
-   ```bash
+```bash
     ./hello
 
