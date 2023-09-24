@@ -13,7 +13,7 @@ This section covers various integer data types in the C programming language. Un
 - [Unsigned Integer (`unsigned int`)](#unsigned-integer-unsigned-int)
 - [Unsigned Long Integer (`unsigned long`)](#unsigned-long-integer-unsigned-long)
 
-## Sizes                 with                               Format Specifier
+## Sizes                 
 - **Short Integer**: usually 2 bytes. |                    %hd 
 - **Integer**: 4 bytes.| %d, %i
 - **Long Integer**: 8 bytes.| %ld, %li
@@ -23,6 +23,16 @@ This section covers various integer data types in the C programming language. Un
 - **Unsigned Long Integer**: 8 bytes | %lu
 - **Unsigend Long Long Integer**: Typically 8 bytes| %llu
 
+## Format Specifier
+
+- **Short Integer**:| %hd 
+- **Integer**:| %d, %i
+- **Long Integer**: | %ld, %li
+- **Long Long Integer**: | %lld, %lli
+- **Unsigned Short Integer**: | %hu
+- **Unsigned Integer**: | %u
+- **Unsigned Long Integer**: | %lu
+- **Unsigend Long Long Integer**: | %llu
 
 
 
