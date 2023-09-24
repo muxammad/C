@@ -15,7 +15,7 @@ int main(){
     printf("Entered character %c\n\n", character);
     printf("Entered character %c\n\n", character2);
 
-    // count sums of two entered chars
+    // count sums of two entered char
     printf("Sum of entered characters %d:  \n", sizeof(character) + sizeof(character2));
 
     return 0; 
