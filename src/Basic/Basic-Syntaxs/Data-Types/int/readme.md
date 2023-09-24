@@ -16,7 +16,7 @@ This section covers various integer data types in the C programming language. Un
 ## Sizes
 - **Short Integer**: usually 2 bytes.
 - **Integer**: 4 bytes.
-- **Long Integer**: 4 bytes usually 8 bytes.
+- **Long Integer**: 8 bytes.
 - **Long Long Integer**: 8 bytes
 - **Unsigned Short Integer**: 2 bytes
 - **Unsigned Integer**: 4 bytes
