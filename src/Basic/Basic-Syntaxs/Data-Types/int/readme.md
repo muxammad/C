@@ -13,15 +13,15 @@ This section covers various integer data types in the C programming language. Un
 - [Unsigned Integer (`unsigned int`)](#unsigned-integer-unsigned-int)
 - [Unsigned Long Integer (`unsigned long`)](#unsigned-long-integer-unsigned-long)
 
-## Sizes
-- **Short Integer**: usually 2 bytes.
+## Sizes                                                Format Specifier
+- **Short Integer**: usually 2 bytes.                    %d, %i   
 - **Integer**: 4 bytes.
 - **Long Integer**: 8 bytes.
 - **Long Long Integer**: 8 bytes
 - **Unsigned Short Integer**: 2 bytes
 - **Unsigned Integer**: 4 bytes
 - **Unsigned Long Integer**: 8 bytes
-- **Unsigend Long Long Integer**: Typically 8 bytes
+- **Unsigend Long Long Integer**: Typically 8 bytes|
 
 
 
