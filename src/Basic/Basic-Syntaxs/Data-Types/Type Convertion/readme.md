@@ -26,4 +26,31 @@ It's important to use type conversions judiciously to ensure your code operates 
 
 Feel free to explore the concepts presented in this tutorial to gain a deeper understanding of implicit and explicit type conversions in C.
 
+Examples in C
+
+```c
+#include <stdio.h>
+
+int main(){
+
+    int num1 = 10;
+    double num2 = 5.5;
+    double result = num1 + num2; // Implicit conversion of int to double
+
+    printf("Display result: %.3lf", result);
+    return 0;
+}
+
+```c
+#include <stdio.h>
+
+int main(){
+
+    double double_number = 10.5;
+    int result = (int)double_number; // Explicitly cast double to int
+
+    printf("Display result: %.3lf", result);
+    return 0;
+}
+
 Happy coding!
