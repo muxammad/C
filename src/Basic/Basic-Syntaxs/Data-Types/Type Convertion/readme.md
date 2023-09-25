@@ -1,6 +1,5 @@
 # C Programming Tutorial - Type Conversions
 
-![C Logo](https://raw.githubusercontent.com/github/explore/4e8650f5caebfceea1dd0eab7f3624915dfac1d4/topics/c/c.png)
 
 Welcome to the C Programming Tutorial on Type Conversions. In this tutorial, we'll explore the concept of type conversions in the C programming language and how they play a crucial role in ensuring the accuracy of operations with different data types.
 
