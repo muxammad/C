@@ -26,7 +26,7 @@ It's important to use type conversions judiciously to ensure your code operates 
 
 Feel free to explore the concepts presented in this tutorial to gain a deeper understanding of implicit and explicit type conversions in C.
 
-Examples in C
+Examples for Implicit
 
 ```c
 #include <stdio.h>
@@ -39,9 +39,20 @@ int main(){
 
     printf("Display result: %.3lf", result);
     return 0;
-}
+    }
 
-```c
+
+5. After adding the code, you can provide additional text, explanations, or any other content you want in your README.
+
+6. Scroll down to the bottom of the page, where you will find a section for "Commit new file." You can add a commit message (e.g., "Add C code snippet to README") to describe the changes you made.
+
+7. Finally, click the "Commit new file" button to save your README.md file with the code snippet.
+
+Your C code snippet will now be part of your README.md file in your GitHub repository, properly formatted and displayed. You can view it by navigating to the repository is main page.
+
+ 
+ ```c
+
 #include <stdio.h>
 
 int main(){
