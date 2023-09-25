@@ -19,7 +19,7 @@ int main(){
 
     // create a char variable
     char alphabet = (char)number;
-    printf("This is charecter after converted explitcitlly: %c\n", alphabet);
+    printf("This is charecter after converted explicitlly: %c\n", alphabet);
 
 
     return 0;
