@@ -40,7 +40,6 @@ int main(){
 
     printf("Display result: %.3lf", result);
     
-
     double double_number = 10.5;
     int result2 = (int)double_number; // Explicitly cast double to int
 
