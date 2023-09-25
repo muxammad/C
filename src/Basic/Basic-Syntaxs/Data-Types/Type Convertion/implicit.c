@@ -13,7 +13,18 @@ int main(){
 
     // created int type variable and assigned values that created before as a double type
     int number = value;
-    printf("Integer value: %d", number);
+    printf("Integer value: %d\n", number);
+
+    // Character variable
+    char alphabet = 'a';
+    printf("Character value: %c\n", alphabet);
+
+    //assigned char value to int
+    int digit = alphabet;
+    printf("Integer Value: %i\n", digit);
+
+    // Here, C language Compiler automaticlly converted character type to int type (97)
+    // This is becouse, in C programmig, characters are internally stored as a integer value known as ASCII Table
 
     return 0;
 }
