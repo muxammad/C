@@ -29,7 +29,6 @@ int main(){
         sleep(1);
         printf("Time remaining: %d seconds\n", i);
     }
-
     // Using a for loop to print even numbers from 2 to 20
     for (int i = 2; i <= 20; i += 2) {
         printf("%d ", i);
