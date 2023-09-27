@@ -10,7 +10,7 @@ Floating-point data types in C are used to represent real numbers, including dec
 - **double**: Typically 8 bytes in size.
 - **long double**: The size may vary but is usually larger than `double`.
 
-These data types provide different levels of precision and range, with `long double` offering the highest precision.
+These data types provide different levels of precision and range, with `long double` offering the highest .
 
 ## Code Example
 
@@ -33,4 +33,3 @@ int main() {
     return 0;
 }
 
-Here's a simple code example that demonstrates the use of floating-point data types:
