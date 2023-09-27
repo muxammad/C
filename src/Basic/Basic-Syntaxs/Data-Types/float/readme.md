@@ -32,3 +32,5 @@ int main() {
 
     return 0;
 }
+
+Here's a simple code example that demonstrates the use of floating-point data types:
