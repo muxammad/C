@@ -18,7 +18,7 @@ int main()
         if (number < 0){
             break;}
             else{
-                printf("Invalid input: Plese try again\n");
+                printf("Invalid input: Plese try again");
             }        
     }
 
