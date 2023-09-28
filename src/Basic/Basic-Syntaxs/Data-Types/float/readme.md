@@ -11,7 +11,7 @@ Floating-point data types in C are used to represent real numbers, including dec
 - **long double**: The size may vary but is usually larger than `double`.
 
 These data types provide different levels of precision and range, with `long double` offering the highest precision.
-12234567810111211
+1223456781011121
 ## Code Example
 
 Here's a simple code example that demonstrates the use of floating-point data types:
